@@ -1,0 +1,15 @@
+models/*.gguf
+venv/
+__pycache__/
+vector_store/
+.env
+*.pyc
+models/
+uploads/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.cache/
+*.log
+.DS_Store
+Thumbs.db
