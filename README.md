@@ -81,7 +81,7 @@ RAG_PROJECT_/
 ### Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/Departmental-RAG-System.git](https://github.com/JeslynMathew/Departmental-RAG-System.git)
+git clone https://github.com/JeslynMathew/Departmental-RAG-System.git
 cd Departmental-RAG-System
 ```
 
